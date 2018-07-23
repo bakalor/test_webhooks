@@ -3,7 +3,7 @@ import json
 from botocore.exceptions import ClientError
 # comment for test commit 3
 def get_secret():
-    password = "password" # to test scanner
+    password = "password" # to test scanner 
     secret_name = ""
     endpoint_url = "https://secretsmanager.us-east-1.amazonaws.com"
     region_name = "us-east-1"
