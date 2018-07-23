@@ -1,7 +1,7 @@
 import boto3
 import json
 from botocore.exceptions import ClientError
-# comment for test commit 2
+# comment for test commit 3
 def get_secret():
     secret_name = ""
     endpoint_url = "https://secretsmanager.us-east-1.amazonaws.com"
