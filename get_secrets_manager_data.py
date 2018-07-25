@@ -1,7 +1,7 @@
 import boto3
 import json
 from botocore.exceptions import ClientError
-# comment for test commit 3
+# comment for test commit 4
 def get_secret():
     password = "password" # to test scanner
     password = "password" # to test scanner
